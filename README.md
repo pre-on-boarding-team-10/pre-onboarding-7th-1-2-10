@@ -61,7 +61,7 @@ npm install
 
 ### 배포 링크
 
-[배포링크 바로가기](https://wanted-preonboarding-fe-tasks.vercel.app/)
+[배포링크 바로가기](https://pre-onboarding-7th-1-2-10.vercel.app/)
 
 <br/>
 
